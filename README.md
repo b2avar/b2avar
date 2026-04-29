@@ -1,9 +1,3 @@
-# Merhaba, Ben Burak Avar! 👋
-
-Bir **Full-Stack Developer** olarak, teknolojiyi kullanarak insanların hayatına dokunan ve dünyayı daha iyi bir yer haline getiren ürünler geliştirmeyi seviyorum.
-
----
-
 ### 🌟 Öne Çıkan Projem: EcoField
 Doğayı oyunlaştırarak keşfetmeni sağlayan, yapay zeka destekli sosyal keşif platformu. EcoField ile çevrendeki bitkileri tarayabilir, geleceğe zaman yolculuğu yapabilir ve doğa severlerle bir araya gelebilirsin.
 
