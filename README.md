@@ -1,9 +1,9 @@
-<h1 align="center">Merhaba, Ben Burak Avar! 👋</h1>
-<h3 align="center">Indie Developer & Founder | Building Scalable AI-Powered Products</h3>
+<h1 align="center">Burak Avar</h1>
+<h3 align="center">Indie Developer & Product Founder</h3>
 
 <p align="center">
-  Fikirleri sıfırdan tasarlıyor, kodluyor ve binlerce kişinin kullanabileceği ölçeklenebilir dijital ürünlere (Mobil & SaaS) dönüştürüyorum.<br/> 
-  Sadece kod yazmıyor; UI/UX, yapay zeka entegrasyonu ve büyüme (growth) stratejilerini birleştirerek <b>uçtan uca ürünler</b> inşa ediyorum.
+  Fikirleri sıfırdan tasarlıyor, kodluyor ve ölçeklenebilir dijital ürünlere (Mobil & SaaS) dönüştürüyorum.<br/> 
+  UI/UX, yapay zeka entegrasyonu ve modern mimarileri birleştirerek <b>uçtan uca ürünler</b> inşa ediyorum.
 </p>
 
 <p align="center">
@@ -17,23 +17,23 @@
 
 <br/>
 
-## 🚀 İnşa Ettiğim Ürünler (My Products)
+## ❖ FEATURED PRODUCTS
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🌿 EcoField</h3>
-      <p><b>Yapay Zeka Destekli Doğa Keşif Platformu</b></p>
-      <p align="left">Doğayı oyunlaştırarak keşfetmeni sağlayan mobil uygulama. Gemini AI ile çevrendeki bitkileri tarayabilir, "Time Travel" ile mekanların geleceğini görebilir ve sosyal akışta puanlar kazanabilirsin.</p>
+      <h3>EcoField</h3>
+      <p><b>AI-Powered Nature Discovery</b></p>
+      <p align="left">Doğayı oyunlaştırarak keşfetmeni sağlayan mobil platform. Gemini AI ile çevrendeki bitkileri tarayabilir, "Time Travel" ile mekanların geleceğini görebilir ve interaktif haritada sosyal bir deneyim yaşayabilirsin.</p>
       <br/>
       <a href="https://apps.apple.com/tr/app/ecofield/id6761442150?l=tr">
         <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/tr-tr?size=250x83&amp;releaseDate=1714435200" alt="Download on the App Store" style="height: 45px;">
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>🎯 Tensely.io</h3>
-      <p><b>Oyunlaştırılmış EdTech (Eğitim) Platformu</b></p>
-      <p align="left">İngilizce gramerini ve kelime hazinesini sıkıcı kurallardan arındırarak mini oyunlar ve interaktif testlerle öğreten web tabanlı "TenseMaster Academy" eğitim platformu.</p>
+      <h3>Tensely.io</h3>
+      <p><b>Gamified EdTech Platform</b></p>
+      <p align="left">İngilizce gramerini ve kelime hazinesini ezberci eğitimden arındırarak mini oyunlar ve interaktif testlerle öğreten, modern web tabanlı "TenseMaster Academy" eğitim platformu.</p>
       <br/>
       <a href="https://tensely.io">
         <img src="https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Tensely" style="height: 40px;">
@@ -44,7 +44,7 @@
 
 <br/>
 
-## 🛠️ Üretim Çantam (Tech Stack)
+## ❖ CORE TECH STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -60,7 +60,7 @@
 
 <br/>
 
-## 📊 Geliştirici İstatistiklerim
+## ❖ GITHUB ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b2avar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="b2avar's github stats" width="48%" />
