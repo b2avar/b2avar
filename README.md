@@ -24,7 +24,4 @@ Doğayı oyunlaştırarak keşfetmeni sağlayan, yapay zeka destekli sosyal keş
   <a href="https://www.linkedin.com/in/burakavar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.burakavar.com/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
 </p>
