@@ -26,8 +26,8 @@
       <p><b>AI-Powered Nature Discovery</b></p>
       <p align="left">Doğayı oyunlaştırarak keşfetmeni sağlayan mobil platform. Gemini AI ile çevrendeki bitkileri tarayabilir, "Time Travel" ile mekanların geleceğini görebilir ve interaktif haritada sosyal bir deneyim yaşayabilirsin.</p>
       <br/>
-      <a href="https://apps.apple.com/tr/app/ecofield/id6761442150?l=tr">
-        <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/tr-tr?size=250x83&amp;releaseDate=1714435200" alt="Download on the App Store" style="height: 45px;">
+      <a href="https://ecofield.ai">
+        <img src="https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit EcoField" style="height: 40px;">
       </a>
     </td>
     <td width="50%" align="center">
