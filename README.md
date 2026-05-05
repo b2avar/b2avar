@@ -59,9 +59,3 @@
 </p>
 
 <br/>
-
-## ❖ GITHUB ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=b2avar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="b2avar's github stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=b2avar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="b2avar's top languages" width="48%" />
-</p>
