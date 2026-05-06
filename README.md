@@ -2,8 +2,8 @@
 <h3 align="center">Indie Developer & Product Founder</h3>
 
 <p align="center">
-  Fikirleri sıfırdan tasarlıyor, kodluyor ve ölçeklenebilir dijital ürünlere (Mobil & SaaS) dönüştürüyorum.<br/> 
-  UI/UX, yapay zeka entegrasyonu ve modern mimarileri birleştirerek <b>uçtan uca ürünler</b> inşa ediyorum.
+  I design and code ideas from scratch, transforming them into scalable digital products (Mobile & SaaS).<br/> 
+  By combining UI/UX, AI integration, and modern architectures, I build <b>end-to-end products</b>.
 </p>
 
 <p align="center">
@@ -24,19 +24,19 @@
     <td width="50%" align="center">
       <h3>EcoField</h3>
       <p><b>AI-Powered Nature Discovery</b></p>
-      <p align="left">Doğayı oyunlaştırarak keşfetmeni sağlayan mobil platform. Gemini AI ile çevrendeki bitkileri tarayabilir, "Time Travel" ile mekanların geleceğini görebilir ve interaktif haritada sosyal bir deneyim yaşayabilirsin.</p>
+      <p align="left">A mobile platform that gamifies nature discovery. You can scan plants around you with Gemini AI, see the future of locations with "Time Travel", and have a social experience on an interactive map.</p>
       <br/>
       <a href="https://ecofield.ai">
-        <img src="https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit EcoField" style="height: 40px;">
+        <img src="https://img.shields.io/badge/Website-Visit_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit EcoField" style="height: 40px;">
       </a>
     </td>
     <td width="50%" align="center">
       <h3>Tensely.io</h3>
       <p><b>Gamified EdTech Platform</b></p>
-      <p align="left">İngilizce gramerini ve kelime hazinesini ezberci eğitimden arındırarak mini oyunlar ve interaktif testlerle öğreten, modern web tabanlı "TenseMaster Academy" eğitim platformu.</p>
+      <p align="left">A modern web-based educational platform that teaches English grammar and vocabulary through mini-games and interactive tests, eliminating rote learning.</p>
       <br/>
       <a href="https://tensely.io">
-        <img src="https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Tensely" style="height: 40px;">
+        <img src="https://img.shields.io/badge/Website-Visit_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Tensely" style="height: 40px;">
       </a>
     </td>
   </tr>
