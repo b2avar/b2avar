@@ -21,7 +21,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>EcoField</h3>
       <p><b>AI-Powered Nature Discovery</b></p>
       <p align="left">A mobile platform that gamifies nature discovery. You can scan plants around you with Gemini AI, see the future of locations with "Time Travel", and have a social experience on an interactive map.</p>
@@ -30,13 +30,22 @@
         <img src="https://img.shields.io/badge/Website-Visit_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit EcoField" style="height: 40px;">
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>Tensely.io</h3>
       <p><b>Gamified EdTech Platform</b></p>
       <p align="left">A modern web-based educational platform that teaches English grammar and vocabulary through mini-games and interactive tests, eliminating rote learning.</p>
       <br/>
       <a href="https://tensely.io">
         <img src="https://img.shields.io/badge/Website-Visit_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Tensely" style="height: 40px;">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Movidle.fun</h3>
+      <p><b>Daily Movie Puzzle Game</b></p>
+      <p align="left">A cinematic guessing game with daily challenges and unlimited play modes. Compete globally to guess the movie using as few clues (poster pieces, trivia) as possible!</p>
+      <br/>
+      <a href="https://movidle.fun">
+        <img src="https://img.shields.io/badge/Website-Play_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Movidle" style="height: 40px;">
       </a>
     </td>
   </tr>
