@@ -22,7 +22,7 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <h3>EcoField</h3>
+      <h3>EcoField.ai</h3>
       <p><b>AI-Powered Nature Discovery</b></p>
       <p align="left">A mobile platform that gamifies nature discovery. You can scan plants around you with Gemini AI, see the future of locations with "Time Travel", and have a social experience on an interactive map.</p>
       <br/>
