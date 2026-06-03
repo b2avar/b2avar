@@ -1,5 +1,5 @@
 <h1 align="center">Burak Avar</h1>
-<h3 align="center">Indie Developer & Product Founder</h3>
+<h3 align="center">Product Engineer & Indie Founder</h3>
 
 <p align="center">
   I design and code ideas from scratch, transforming them into scalable digital products (Mobile & SaaS).<br/> 
