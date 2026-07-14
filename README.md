@@ -2,7 +2,7 @@
 <h3 align="center">Product Engineer & Indie Founder</h3>
 
 <p align="center">
-  I design and code ideas from scratch, transforming them into scalable digital products (Mobile & SaaS).<br/> 
+  I design and code ideas from scratch, transforming them into scalable digital products (Mobile & SaaS).<br/>
   By combining UI/UX, AI integration, and modern architectures, I build <b>end-to-end products</b>.
 </p>
 
@@ -12,6 +12,9 @@
   </a>
   <a href="https://www.burakavar.com/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/sponsors/b2avar">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
   </a>
 </p>
 
@@ -47,6 +50,10 @@
       <a href="https://movidle.fun">
         <img src="https://img.shields.io/badge/Website-Play_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Movidle" style="height: 40px;">
       </a>
+      <br/><br/>
+      <a href="https://github.com/sponsors/b2avar">
+        <img src="https://img.shields.io/badge/Support-Sponsor_Movidle-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Movidle" />
+      </a>
     </td>
   </tr>
 </table>
@@ -67,5 +74,3 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
-<br/>
